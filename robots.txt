@@ -1,0 +1,8 @@
+# PDFOffice.in Robots.txt - SEO Search Engine Crawlers
+User-agent: *
+Allow: /
+Disallow: /701154305
+Disallow: /7011543055
+
+# Sitemaps
+Sitemap: https://pdfoffice.in/sitemap.xml
